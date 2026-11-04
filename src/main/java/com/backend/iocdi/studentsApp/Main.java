@@ -13,3 +13,4 @@ public class Main {
         service.printStudents();
     }
 }
+// java based configuration
